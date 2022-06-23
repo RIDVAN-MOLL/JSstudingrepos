@@ -32,4 +32,4 @@ console.log(1);
 let ans = +prompt("ttt", "");
 
 console.log(5 + ans);
-//fwegfrgerg
+//fwegfrgerefwrefwefg
